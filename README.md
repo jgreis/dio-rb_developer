@@ -20,6 +20,9 @@ Durante a Formação, você irá conhecer o surgimento dessa linguagem, entender
     4. Estruturas de Controle em Ruby
     5. Desafios Básicos #1
     6. Desafio de Projeto: Criando uma Calculadora com Ruby
+2. Avançando na Linguagem Ruby
+    1. Coleções em Ruby
+    2. Desafio de Projeto: Cálculo com Potência em Ruby
 
 ## Tecnologias
 
