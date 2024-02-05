@@ -24,6 +24,8 @@ Durante a Formação, você irá conhecer o surgimento dessa linguagem, entender
     1. Coleções em Ruby
     2. Desafio de Projeto: Cálculo com Potência em Ruby
     3. Métodos e Gems
+    4. Desafio de Projeto: Criando um Programa para Consulta de CPF com Ruby
+    5. Desafios Básicos #2
 
 ## Tecnologias
 
