@@ -23,6 +23,7 @@ Durante a Formação, você irá conhecer o surgimento dessa linguagem, entender
 2. Avançando na Linguagem Ruby
     1. Coleções em Ruby
     2. Desafio de Projeto: Cálculo com Potência em Ruby
+    3. Métodos e Gems
 
 ## Tecnologias
 
